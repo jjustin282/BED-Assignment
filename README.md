@@ -118,10 +118,11 @@ The server runs at `http://localhost:3000` (adjust port if needed).
 
 | Name | Student ID | Individual Feature |
 |------|-----------|--------------------|
-| Justin Ang Hao Zhe | S10268865J | *(e.g. Orders / Checkout CRUD)* |
-| *Member 2* | *ID* | *Feature* |
-| *Member 3* | *ID* | *Feature* |
-| *Member 4* | *ID* | *Feature* |
+| Justin Ang Hao Zhe | S10268865J | *(e.g. Orders CRUD)* |
+| Leslie He Jing Ting | S10272427D  | *(e.g. MenuItems CRUD)* |
+| Putera Arri  | S10275267A  | *(e.g. Inspection CRUD)* |
+| Russell Jamil | S10275508E  | *(e.g. Cusomter account + login CRUD)* |
+
 
 ## 🎯 Purpose of the Project
 
